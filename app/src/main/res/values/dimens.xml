@@ -4,36 +4,35 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
 
     <!--Sizes-->
-
-    <dimen name="size_small_24">24dp</dimen>
-    <dimen name="size_medium_56">56dp</dimen>
-    <dimen name="size_large_72">72dp</dimen>
+    <dimen name="size_4">4dp</dimen>
+    <dimen name="size_8">8dp</dimen>
+    <dimen name="size_16">16dp</dimen>
+    <dimen name="size_24">24dp</dimen>
+    <dimen name="size_32">32dp</dimen>
+    <dimen name="size_40">40dp</dimen>
+    <dimen name="size_48">48dp</dimen>
+    <dimen name="size_56">56dp</dimen>
+    <dimen name="size_72">72dp</dimen>
+    <dimen name="size_80">80dp</dimen>
+    <dimen name="size_96">96dp</dimen>
+    <dimen name="size_104">104dp</dimen>
+    <dimen name="size_360">360dp</dimen>
+    <dimen name="size_448">448dp</dimen>
 
     <!--Spaces-->
-    
-    <dimen name="spacing_small_8">8dp</dimen>
-    <dimen name="spacing_nomal_16">164dp</dimen>
-    <dimen name="spacing_medial_24">24dp</dimen>
-    <dimen name="spacing_medium_32">32dp</dimen>
-    <dimen name="spacing_large_56">56dp</dimen>
-    <dimen name="spacing_larger_72">72dp</dimen>
-
-    <!-- font sizes -->
-    <dimen name="font_larger_22">22sp</dimen>
-    <dimen name="font_large_18">18sp</dimen>
-    <dimen name="font_normal_15">15sp</dimen>
-    <dimen name="font_small_12">12sp</dimen>
-
-    <!-- typical spacing between two views -->
-    <dimen name="spacing_huge_40">40dp</dimen>
-    <dimen name="spacing_large_24">24dp</dimen>
-    <dimen name="spacing_normal_14">14dp</dimen>
-    <dimen name="spacing_small_10">10dp</dimen>
-    <dimen name="spacing_tiny_4">4dp</dimen>
-
-    <!-- typical sizes of views -->
-    <dimen name="button_height_tall_60">60dp</dimen>
-    <dimen name="button_height_normal_40">40dp</dimen>
-    <dimen name="button_height_short_32">32dp</dimen>
+    <dimen name="spacing_4">4dp</dimen>
+    <dimen name="spacing_8">8dp</dimen>
+    <dimen name="spacing_16">16dp</dimen>
+    <dimen name="spacing_24">24dp</dimen>
+    <dimen name="spacing_32">32dp</dimen>
+    <dimen name="spacing_40">40dp</dimen>
+    <dimen name="spacing_48">48dp</dimen>
+    <dimen name="spacing_56">56dp</dimen>
+    <dimen name="spacing_72">72dp</dimen>
+    <dimen name="spacing_80">80dp</dimen>
+    <dimen name="spacing_96">96dp</dimen>
+    <dimen name="spacing_104">104dp</dimen>
+    <dimen name="spacing_360">360dp</dimen>
+    <dimen name="spacing_448">448dp</dimen>
 
 </resources>
